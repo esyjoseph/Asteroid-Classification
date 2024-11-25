@@ -118,4 +118,45 @@ NASA NEO Surveyor Mission
 Questions, especially feedback are highly encouraged, please contact me at theestherjoseph@gmail.com. 
 
 
+**RESULT OF MODEL CHOSEN:**
+<h3>RESULT OF MODEL CHOSEN: LightGBM - Classification Report (Trained on Larger Data)</h3>
+
+<table>
+  <tr>
+    <th>Class</th>
+    <th>Precision</th>
+    <th>Recall</th>
+    <th>F1-Score</th>
+    <th>Support</th>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>1.00</td>
+    <td>1.00</td>
+    <td>1.00</td>
+    <td>10163</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>0.99</td>
+    <td>0.98</td>
+    <td>0.98</td>
+    <td>792</td>
+  </tr>
+  <tr>
+    <td colspan="4">Accuracy</td>
+    <td>1.00</td>
+  </tr>
+  <tr>
+    <td colspan="4">Macro avg</td>
+    <td>0.99</td>
+  </tr>
+  <tr>
+    <td colspan="4">Weighted avg</td>
+    <td>1.00</td>
+  </tr>
+</table>
+
+<h4>LightGBM - Confusion Matrix (Trained on Larger Data)</h4>
+<p>[[10156, 7], [17, 775]]</p>
 
