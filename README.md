@@ -1,5 +1,4 @@
-# Asteroid-Classification
-**Classifying Potentially Hazardous Near-Earth Objects: A Machine Learning Approach to Planetary Defense**
+# **Classifying Potentially Hazardous Near-Earth Objects: A Machine Learning Approach to Planetary Defense**
 
 **SOFT SKILL NOTE:**
 Although astronomy isn't my area of expertise—my background lies in Economics, Business Development, and Sales Systems—this project was a chance to showcase my ability to learn quickly and solve problems outside my comfort zone. It highlights my capacity to think critically, dive deep into data for meaningful insights, and adapt through iterative learning. By selecting relevant features, addressing imbalanced datasets, and refining models based on performance feedback, I demonstrated not only technical skills but also essential soft skills like effective communication and collaboration, especially when consulting with domain experts. This experience reinforced my ability to independently learn and adapt, ensuring that complex concepts are translated into clear, actionable outcomes. 
